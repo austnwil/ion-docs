@@ -9,7 +9,6 @@ It is illegal for an annotations sequence to appear before any of the following:
 * The end of the stream
 * Another annotations sequence
 * A [`NOP`](nop.md)
-* An e-expression. To add annotations to the _expansion_ of an E-expression, see [the `annotate` macro](../macros/system_macros.md#annotate).
 
 
 ### Annotations With Symbol Addresses
